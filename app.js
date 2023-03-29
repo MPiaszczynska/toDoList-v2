@@ -39,7 +39,7 @@ const item2 = new Item({
   name: "Press + button to add a new item."
 });
 const item3 = new Item({
-  name: "<-- Press this to delete an item."
+  name: "Check the checkbox to delete an item."
 });
 
 // Create items array
